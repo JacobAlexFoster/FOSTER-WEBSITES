@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#heatmap {
+    display: grid;
+    grid-template-columns: repeat(53, 12px); /* 53 weeks */
+    grid-gap: 3px;
+    justify-content: center;
+}
+
+.day {
+    width: 12px;
+    height: 12px;
+    background: #ebedf0;
+    border-radius: 2px;
+}
+
+.level-1 { background: #c6e48b; }
+.level-2 { background: #7bc96f; }
+.level-3 { background: #239a3b; }
+.level-4 { background: #196127; }

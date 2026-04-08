@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary purpose of market segmentation?",
+      "options": [
+        "To divide a market into smaller groups with similar needs",
+        "To increase production efficiency",
+        "To reduce the number of competitors",
+        "To improve employee motivation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is an example of primary research?",
+      "options": [
+        "Government reports",
+        "Customer surveys",
+        "Online articles",
+        "Industry statistics"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does USP stand for in marketing?",
+      "options": [
+        "Unique Selling Point",
+        "Universal Sales Process",
+        "Unit Sales Percentage",
+        "User Satisfaction Profile"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which pricing strategy involves setting a high price when launching a new product?",
+      "options": [
+        "Penetration pricing",
+        "Skimming pricing",
+        "Competitive pricing",
+        "Loss leader pricing"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the main goal of promotion in the marketing mix?",
+      "options": [
+        "To increase product quality",
+        "To inform and persuade customers",
+        "To reduce production costs",
+        "To improve employee performance"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of a demographic factor?",
+      "options": [
+        "Lifestyle",
+        "Income level",
+        "Personality",
+        "Values"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is penetration pricing?",
+      "options": [
+        "Setting a high price to maximise early profits",
+        "Setting a low price to enter a competitive market",
+        "Charging different prices to different customers",
+        "Setting prices based on production cost"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which element of the marketing mix refers to how a product is delivered to customers?",
+      "options": [
+        "Product",
+        "Price",
+        "Place",
+        "Promotion"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "What is branding mainly used for?",
+      "options": [
+        "To reduce production costs",
+        "To differentiate a product from competitors",
+        "To increase employee motivation",
+        "To improve supply chain efficiency"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which of the following is an example of secondary research?",
+      "options": [
+        "Focus groups",
+        "Customer interviews",
+        "Government publications",
+        "Surveys conducted by the business"
+      ],
+      "correct": 2
+    }
+  ]
+}

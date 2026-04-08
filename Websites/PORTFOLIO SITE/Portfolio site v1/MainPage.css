@@ -1,0 +1,134 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== BASE ===== */
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    padding: 20px;
+}
+
+/* ===== LAYOUT ===== */
+.layout {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    max-width: 900px;
+    width: 100%;
+}
+
+/* ===== HEADER ===== */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+header p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* ===== SUBJECT GRID ===== */
+.subject-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 15px;
+}
+
+/* ===== SUBJECT CARDS ===== */
+.subject-card {
+    display: block;
+    background: white;
+    padding: 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid #ddd;
+    transition: background 0.2s, transform 0.15s;
+}
+
+.subject-card:hover {
+    background: #eaeaea;
+    transform: translateY(-2px);
+}
+
+.subject-card h2 {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+}
+
+.subject-card p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.stats-button {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 14px;
+    background: #333;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+.stats-button:hover {
+    background: #555;
+}
+
+.section-title {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+#all-heatmaps {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    margin-bottom: 60px;
+}
+
+.heatmap-block {
+    background: white;
+    padding: 20px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+
+.heatmap-title {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.heatmap-grid {
+    display: grid;
+    grid-template-columns: repeat(53, 12px);
+    grid-gap: 3px;
+}
+
+.day {
+    width: 12px;
+    height: 12px;
+    background: #ebedf0;
+    border-radius: 2px;
+}
+
+.level-1 { background: #c6e48b; }
+.level-2 { background: #7bc96f; }
+.level-3 { background: #239a3b; }
+.level-4 { background: #196127; }

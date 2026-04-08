@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revision Website</title>
+    <link rel="stylesheet" href="MainPage.css">
+</head>
+<body>
+
+<div class="layout">
+
+    <div class="main">
+
+        <header>
+            <h1>Revision Website</h1>
+            <p>Sub heading</p>
+
+        </header>
+
+        <!-- ===== SUBJECT GRID ===== -->
+        <div class="subject-grid">
+
+            <!-- Each item is identical structure -->
+            <a href="Business.html" class="subject-card">
+                <h2>Business</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Law.html" class="subject-card">
+                <h2>Law</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="ComputerScience.html" class="subject-card">
+                <h2>Computer Science</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Biology.html" class="subject-card">
+                <h2>Biology</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Physics.html" class="subject-card">
+                <h2>Physics</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Chemistry.html" class="subject-card">
+                <h2>Chemistry</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Philosophy.html" class="subject-card">
+                <h2>Philosophy</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="History.html" class="subject-card">
+                <h2>History</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Architecture.html" class="subject-card">
+                <h2>Architecture</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Spanish.html" class="subject-card">
+                <h2>Spanish</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="German.html" class="subject-card">
+                <h2>German</h2>
+                <p>Some text here.</p>
+            </a>
+
+            <a href="Italian.html" class="subject-card">
+                <h2>Italian</h2>
+                <p>Some text here.</p>
+            </a>
+
+        </div>
+
+        <h2 class="section-title">Your Revision Heatmaps</h2>
+
+        <div id="all-heatmaps">
+        </div>
+
+        <script src="HeatmapEngine.js"></script>
+        <script>
+            renderAllHeatmaps([
+                "business_quiz_1",
+                "law_quiz_1",
+                "computerscience_quiz_1",
+                "biology_quiz_1",
+                "physics_quiz_1",
+                "chemistry_quiz_1",
+                "philosophy_quiz_1",
+                "history_quiz_1",
+                "architecture_quiz_1",
+                "spanish_quiz_1",
+                "german_quiz_1",
+                "italian_quiz_1"
+            ]);
+        </script>
+        <!-- ===== END SUBJECT GRID ===== -->
+
+    </div>
+
+</div>
+
+</body>
+</html>

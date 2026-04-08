@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ===================== LAYOUT WRAPPER ===================== -->
+<div class="layout">
+
+    <!-- ===================== MAIN CONTENT ===================== -->
+    <div class="main">
+<header>
+    <h1>revision website</h1>
+    <p>sub heading</p>
+</header>
+
+<div class="top-section">
+
+    <div class="left-buttons">
+        <div class="content-row">
+            <section class="content small">
+                <a href="Page1.html" class="big-button">
+                    <h2>Business</h2>
+                    <p>Some text here.</p>
+                </a>
+            </section>
+
+            <section class="content small">
+                <a href="Page2.html" class="big-button">
+                    <h2>Law</h2>
+                    <p>Some text here.</p>
+                </a>
+            </section>
+
+            <section class="content small">
+                <a href="Page3.html" class="big-button">
+                    <h2>Computer Science</h2>
+                    <p>Some text here.</p>
+                </a>
+            </section>
+        </div>
+    </div>
+
+    <div class="right-trackers">
+        <div class="bigbox">
+            <h3>Business revision tracker</h3>
+            <div class="revision-grid" id="business-grid"></div>
+        </div>
+
+        <div class="bigbox2">
+            <h3>Law revision tracker</h3>
+            <div class="revision-grid" id="law-grid"></div>
+        </div>
+
+        <div class="bigbox3">
+            <h3>Computer Science revision tracker</h3>
+            <div class="revision-grid" id="cs-grid"></div>
+        </div>
+    </div>
+
+</div>
+
+    </div>
+    <!-- ===================== END MAIN CONTENT ===================== -->
+
+</div>
+<!-- ===================== END LAYOUT WRAPPER ===================== -->
+
+
+<!-- ===== JAVASCRIPT TO GENERATE 365 SQUARES ===== -->
+<script>
+function generateGrid(id) {
+    const container = document.getElementById(id);
+    for (let i = 0; i < 365; i++) {
+        const square = document.createElement("div");
+        square.classList.add("day");
+        square.dataset.level = 0;
+
+        // Click to cycle through colour levels
+        square.addEventListener("click", () => {
+            let level = parseInt(square.dataset.level);
+            level = (level + 1) % 5; // 0 → 1 → 2 → 3 → 4 → 0
+            square.dataset.level = level;
+        });
+
+        container.appendChild(square);
+    }
+}
+
+generateGrid("business-grid");
+generateGrid("law-grid");
+generateGrid("cs-grid");
+</script>
+
+</body>
+</html>

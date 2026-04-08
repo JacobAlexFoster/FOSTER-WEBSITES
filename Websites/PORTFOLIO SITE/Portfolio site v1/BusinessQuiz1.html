@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Quiz 1</title>
+    <link rel="stylesheet" href="Quiz.css">
+</head>
+<body>
+
+<div class="quiz-wrapper">
+
+    <header class="quiz-header">
+        <h1>Business Quiz 1: Marketing</h1>
+        <div id="progress" class="quiz-progress">Question 1 of 10</div>
+    </header>
+
+    <main id="question-container" class="quiz-body"></main>
+
+    <footer class="quiz-footer">
+        <button id="submit" class="btn-primary">Submit</button>
+        <div id="results" class="quiz-results hidden"></div>
+    </footer>
+
+</div>
+
+<script src="QuizEngine.js"></script>
+<script>
+    loadQuiz("business_quiz_1");
+</script>
+
+</body>
+</html>

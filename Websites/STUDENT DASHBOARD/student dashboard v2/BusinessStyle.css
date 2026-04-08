@@ -1,0 +1,23 @@
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.big-button {
+    display: block;
+    width: 100%;
+    background: black;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.big-button:hover {
+    background: #111;
+    transform: scale(1.02);
+}

@@ -1,0 +1,75 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== BASE ===== */
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: #222;
+    padding: 20px;
+}
+
+/* ===== LAYOUT ===== */
+.layout {
+    display: flex;
+    justify-content: center;
+}
+
+.main {
+    max-width: 900px;
+    width: 100%;
+}
+
+/* ===== HEADER ===== */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 5px;
+}
+
+header p {
+    font-size: 1rem;
+    color: #555;
+}
+
+/* ===== QUIZ LIST ===== */
+.quiz-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 15px;
+}
+
+/* ===== QUIZ CARDS ===== */
+.quiz-card {
+    display: block;
+    background: white;
+    padding: 15px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: inherit;
+    border: 1px solid #ddd;
+    transition: background 0.2s, transform 0.15s;
+}
+
+.quiz-card:hover {
+    background: #eaeaea;
+    transform: translateY(-2px);
+}
+
+.quiz-card h2 {
+    font-size: 1.1rem;
+    margin-bottom: 6px;
+}
+
+.quiz-card p {
+    font-size: 0.9rem;
+    color: #555;
+}

@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    color: white;
+}
+
+header {
+    background: #000;
+    color: white;
+    padding: 25px 20px;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+.main {
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+/* TWO-COLUMN LAYOUT */
+.top-section {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 20px;
+    width: 100%;
+    align-items: stretch; /* makes both columns equal height */
+}
+
+/* LEFT COLUMN */
+.left-buttons {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+/* Make the 3 buttons stretch evenly */
+.content-row {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: 100%;
+}
+
+.content.small {
+    flex: 1; /* each button takes equal height */
+    display: flex;
+}
+
+.big-button {
+    flex: 1; /* button fills its container */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: black;
+    padding: 15px;
+    border-radius: 8px;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+    box-sizing: border-box;
+}
+
+/* RIGHT COLUMN */
+.right-trackers {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    height: 100%;
+}
+
+.bigbox,
+.bigbox2,
+.bigbox3 {
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+
+/* REVISION GRID */
+.revision-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(18px, 1fr));
+    gap: 4px;
+    margin-top: 10px;
+}
+
+.day {
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    background: #2e2e2e;
+    transition: 0.2s;
+}
+
+.day[data-level="0"] { background: #2e2e2e; }
+.day[data-level="1"] { background: #4caf50; }
+.day[data-level="2"] { background: #43a047; }
+.day[data-level="3"] { background: #388e3c; }
+.day[data-level="4"] { background: #2e7d32; }
+
+.day:hover {
+    transform: scale(1.15);
+}
