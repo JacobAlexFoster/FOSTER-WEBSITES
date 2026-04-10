@@ -45,6 +45,7 @@ document.getElementById("submit").addEventListener("click", () => {
     }
 
     const answer = parseInt(selected.value);
+
     if (answer === quizData[currentQuestionIndex].correct) {
         score++;
     }
@@ -68,4 +69,6 @@ function showResults() {
         <h2>Your Score</h2>
         <p>${score} / ${quizData.length}</p>
     `;
+
+    handleQuizCompletion(score, quizData.length);
 }

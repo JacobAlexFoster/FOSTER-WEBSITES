@@ -1,0 +1,407 @@
+{
+  "questions": [
+    {
+      "question": "Labour productivity is calculated using",
+      "options": [
+        "Output ÷ Cost",
+        "Employees ÷ Output",
+        "Output × Number of employees",
+        "Output per period ÷ Number of employees"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour productivity measures",
+      "options": [
+        "Capacity",
+        "Efficiency",
+        "Profitability",
+        "Market share"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If output is 1,000 units and there are 20 employees, labour productivity is",
+      "options": [
+        "100 units per employee",
+        "20 units per employee",
+        "50 units per employee",
+        "500 units per employee"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour productivity increases when",
+      "options": [
+        "Output rises faster than employees",
+        "Employees increase faster than output",
+        "Output falls",
+        "Costs rise"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Low labour productivity suggests",
+      "options": [
+        "High profit",
+        "Inefficiency",
+        "Low unit cost",
+        "High efficiency"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which action can improve labour productivity?",
+      "options": [
+        "Training employees",
+        "Increasing costs",
+        "Reducing output",
+        "Hiring more staff without increasing output"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "High labour productivity usually leads to",
+      "options": [
+        "Lower output",
+        "More employees",
+        "Lower unit costs",
+        "Higher unit costs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If output stays the same but employees increase, labour productivity will",
+      "options": [
+        "Double",
+        "Fall",
+        "Rise",
+        "Stay the same"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Labour productivity is important because it affects",
+      "options": [
+        "Efficiency and competitiveness",
+        "Employee holidays",
+        "Market share directly",
+        "Office layout"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A business with high labour productivity is likely to",
+      "options": [
+        "Use resources efficiently",
+        "Have low output",
+        "Have high costs",
+        "Be uncompetitive"
+      ],
+      "correct": 0
+    },
+
+    {
+      "question": "Unit cost is calculated using",
+      "options": [
+        "Total cost × Units produced",
+        "Units produced ÷ Total cost",
+        "Total cost ÷ Units produced",
+        "Revenue ÷ Units produced"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Unit cost shows",
+      "options": [
+        "Market size",
+        "Cost efficiency",
+        "Profit margin",
+        "Employee productivity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If total cost is £10,000 and 500 units are produced, unit cost is",
+      "options": [
+        "£5",
+        "£20",
+        "£50",
+        "£10"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Unit cost falls when",
+      "options": [
+        "Costs increase faster than output",
+        "Output increases faster than costs",
+        "Employees increase",
+        "Output decreases"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "High unit costs suggest",
+      "options": [
+        "High productivity",
+        "Strong competitiveness",
+        "Low costs",
+        "Inefficiency"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Lower unit costs can lead to",
+      "options": [
+        "Lower efficiency",
+        "Higher prices",
+        "Higher profit margins",
+        "Lower output"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Unit cost is important because it affects",
+      "options": [
+        "Office design",
+        "Pricing decisions",
+        "Market size",
+        "Employee holidays"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If total cost rises but output stays the same, unit cost will",
+      "options": [
+        "Rise",
+        "Fall",
+        "Stay the same",
+        "Become zero"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If output doubles and total cost stays the same, unit cost will",
+      "options": [
+        "Double",
+        "Fall",
+        "Rise",
+        "Stay the same"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Unit cost helps businesses measure",
+      "options": [
+        "Income elasticity",
+        "Cost efficiency",
+        "Market share",
+        "Sales growth"
+      ],
+      "correct": 1
+    },
+
+    {
+      "question": "Capacity utilisation is calculated using",
+      "options": [
+        "(Maximum output ÷ Actual output) × 100",
+        "Output × Employees",
+        "(Actual output ÷ Maximum possible output) × 100",
+        "Output ÷ Cost"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Capacity utilisation measures",
+      "options": [
+        "Profitability",
+        "How well capacity is used",
+        "Market size",
+        "Labour productivity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If a factory can produce 10,000 units but only produces 5,000, capacity utilisation is",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "High capacity utilisation usually means",
+      "options": [
+        "Resources are being wasted",
+        "Resources are being used efficiently",
+        "Costs are high",
+        "Output is low"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Low capacity utilisation suggests",
+      "options": [
+        "Underused resources",
+        "High output",
+        "Strong demand",
+        "High efficiency"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Capacity utilisation can be improved by",
+      "options": [
+        "Hiring more staff without increasing output",
+        "Increasing demand",
+        "Closing production lines",
+        "Reducing output"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If actual output rises while maximum capacity stays the same, capacity utilisation will",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Stay the same",
+        "Become zero"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Operating at 100% capacity can lead to",
+      "options": [
+        "Guaranteed profit",
+        "Lower demand",
+        "Pressure on machinery and staff",
+        "Lower costs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If maximum capacity increases but output stays the same, capacity utilisation will",
+      "options": [
+        "Fall",
+        "Rise",
+        "Stay the same",
+        "Double"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Capacity utilisation is important because it affects",
+      "options": [
+        "Efficiency and cost control",
+        "Sales growth",
+        "Market share directly",
+        "Employee holidays"
+      ],
+      "correct": 0
+    },
+
+    {
+      "question": "Efficiency is calculated using",
+      "options": [
+        "Output × Input",
+        "(Output ÷ Input) × 100",
+        "Input ÷ Output",
+        "Output − Input"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Efficiency measures",
+      "options": [
+        "Operational performance",
+        "Profit margin",
+        "Market size",
+        "Sales growth"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Higher efficiency means",
+      "options": [
+        "More output from the same input",
+        "More input for the same output",
+        "Lower productivity",
+        "Higher unit costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Efficiency improves when",
+      "options": [
+        "Input increases without increasing output",
+        "Output increases without increasing input",
+        "Output decreases",
+        "Costs rise"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Low efficiency suggests",
+      "options": [
+        "High productivity",
+        "Low unit costs",
+        "Poor operational performance",
+        "Strong competitiveness"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Efficiency can be improved by",
+      "options": [
+        "Increasing costs",
+        "Lowering output",
+        "Reducing waste",
+        "Increasing input without increasing output"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Efficiency is important because it",
+      "options": [
+        "Reduces costs and improves competitiveness",
+        "Determines employee wages",
+        "Guarantees profit",
+        "Increases market size"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If input rises faster than output, efficiency will",
+      "options": [
+        "Rise",
+        "Fall",
+        "Stay the same",
+        "Double"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If output and input rise at the same rate, efficiency will",
+      "options": [
+        "Rise",
+        "Stay the same",
+        "Fall",
+        "Become zero"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Efficiency helps businesses understand",
+      "options": [
+        "Total market size",
+        "Sales growth",
+        "Income elasticity",
+        "How well resources are being used"
+      ],
+      "correct": 3
+    }
+  ]
+}

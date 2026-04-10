@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "Gross profit is calculated using",
+      "options": [
+        "Revenue \u2212 Total costs",
+        "Revenue \u2212 Cost of sales",
+        "Revenue \u00d7 Cost of sales",
+        "Revenue \u2212 Operating expenses"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Gross profit measures",
+      "options": [
+        "Net profit",
+        "Profit after all expenses",
+        "Profit after direct production costs",
+        "Operating efficiency"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If revenue is \u00a350,000 and cost of sales is \u00a330,000, gross profit is",
+      "options": [
+        "\u00a380,000",
+        "\u00a320,000",
+        "\u00a330,000",
+        "\u00a310,000"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Gross profit increases when",
+      "options": [
+        "Cost of sales rises faster than revenue",
+        "Operating expenses fall",
+        "Revenue rises faster than cost of sales",
+        "Revenue falls"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A fall in gross profit may indicate",
+      "options": [
+        "Lower operating expenses",
+        "Higher net profit",
+        "Lower tax",
+        "Higher cost of sales"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Gross profit is important because it",
+      "options": [
+        "Shows final profit",
+        "Shows profitability before overheads",
+        "Shows gearing",
+        "Shows liquidity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If cost of sales rises and revenue stays the same, gross profit will",
+      "options": [
+        "Double",
+        "Stay the same",
+        "Fall",
+        "Rise"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Gross profit focuses on",
+      "options": [
+        "Only fixed costs",
+        "All business costs",
+        "Only variable costs",
+        "Direct production costs"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A business can improve gross profit by",
+      "options": [
+        "Reducing revenue",
+        "Reducing cost of sales",
+        "Increasing overheads",
+        "Increasing liabilities"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Gross profit is a key indicator of",
+      "options": [
+        "Debt levels",
+        "Employee productivity",
+        "Production efficiency",
+        "Liquidity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Gross profit margin is calculated using",
+      "options": [
+        "(Revenue \u2212 Gross profit) \u00d7 100",
+        "(Gross profit \u00f7 Revenue) \u00d7 100",
+        "(Revenue \u00f7 Gross profit) \u00d7 100",
+        "(Gross profit \u00d7 Revenue) \u00d7 100"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Gross profit margin measures",
+      "options": [
+        "Profitability after all expenses",
+        "Liquidity",
+        "Profitability after cost of sales",
+        "Efficiency"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If gross profit is \u00a340,000 and revenue is \u00a3100,000, gross profit margin is",
+      "options": [
+        "60%",
+        "10%",
+        "25%",
+        "40%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A higher gross profit margin indicates",
+      "options": [
+        "Higher liabilities",
+        "Better cost control",
+        "Lower revenue",
+        "Higher operating expenses"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Gross profit margin falls when",
+      "options": [
+        "Revenue increases",
+        "Operating expenses fall",
+        "Net profit rises",
+        "Cost of sales increases"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Gross profit margin helps businesses understand",
+      "options": [
+        "How much tax they owe",
+        "How efficiently they use assets",
+        "How efficiently they convert revenue into gross profit",
+        "How quickly they pay debts"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A business can improve gross profit margin by",
+      "options": [
+        "Increasing operating expenses",
+        "Reducing revenue",
+        "Increasing liabilities",
+        "Reducing cost of sales"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Gross profit margin is useful for",
+      "options": [
+        "Measuring liquidity",
+        "Comparing profitability over time",
+        "Measuring efficiency",
+        "Measuring gearing"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If revenue rises but gross profit stays the same, gross profit margin will",
+      "options": [
+        "Stay the same",
+        "Double",
+        "Fall",
+        "Rise"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Gross profit margin focuses on",
+      "options": [
+        "Net profit only",
+        "Direct costs only",
+        "Operating expenses only",
+        "All costs"
+      ],
+      "correct": 1
+    }
+  ]
+}

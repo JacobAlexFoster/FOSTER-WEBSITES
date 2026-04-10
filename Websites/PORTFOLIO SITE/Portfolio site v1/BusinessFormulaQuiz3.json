@@ -1,0 +1,508 @@
+{
+  "questions": [
+    {
+      "question": "Price Elasticity of Demand (PED) is calculated using",
+      "options": [
+        "% change in price ÷ % change in quantity demanded",
+        "% change in quantity demanded ÷ % change in price",
+        "Revenue ÷ Costs",
+        "Price × Quantity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "PED measures",
+      "options": [
+        "Responsiveness of demand to price changes",
+        "Market size",
+        "Responsiveness of demand to income changes",
+        "Total costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If PED = -2, demand is",
+      "options": [
+        "Unitary",
+        "Elastic",
+        "Perfectly inelastic",
+        "Inelastic"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If PED = -0.5, demand is",
+      "options": [
+        "Perfectly elastic",
+        "Elastic",
+        "Inelastic",
+        "Unitary"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Elastic demand means consumers are",
+      "options": [
+        "Not responsive to price changes",
+        "Very responsive to price changes",
+        "Only responsive to income changes",
+        "Not affected by price at all"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Inelastic demand means",
+      "options": [
+        "Demand is unrelated to price",
+        "Quantity demanded changes little when price changes",
+        "Quantity demanded changes a lot when price changes",
+        "Demand is perfectly responsive"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If price rises and demand barely changes, PED is",
+      "options": [
+        "Perfectly elastic",
+        "Elastic",
+        "Unitary",
+        "Inelastic"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Products with elastic demand are often",
+      "options": [
+        "Luxury goods",
+        "Goods with no substitutes",
+        "Necessities",
+        "Inferior goods"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Products with inelastic demand are often",
+      "options": [
+        "Luxury goods",
+        "Goods with many substitutes",
+        "Necessities",
+        "Non-essential items"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A PED value of 0 means demand is",
+      "options": [
+        "Perfectly elastic",
+        "Elastic",
+        "Unitary",
+        "Perfectly inelastic"
+      ],
+      "correct": 3
+    },
+
+    {
+      "question": "Income Elasticity of Demand (YED) is calculated using",
+      "options": [
+        "% change in income ÷ % change in quantity demanded",
+        "% change in quantity demanded ÷ % change in income",
+        "Revenue ÷ Costs",
+        "Price × Quantity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "YED shows whether a product is",
+      "options": [
+        "Normal or inferior",
+        "Elastic or inelastic",
+        "High or low quality",
+        "Expensive or cheap"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A positive YED indicates a",
+      "options": [
+        "Luxury good only",
+        "Inferior good",
+        "Normal good",
+        "Necessity only"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A negative YED indicates an",
+      "options": [
+        "Inferior good",
+        "Normal good",
+        "Luxury good",
+        "Elastic good"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Luxury goods typically have",
+      "options": [
+        "Zero YED",
+        "Low negative YED",
+        "Negative YED",
+        "High positive YED"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Necessities typically have",
+      "options": [
+        "Low positive YED",
+        "Zero YED",
+        "Negative YED",
+        "High positive YED"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If income rises and demand falls, the product is",
+      "options": [
+        "Normal",
+        "Luxury",
+        "Inferior",
+        "Elastic"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If YED = 0, demand",
+      "options": [
+        "Falls when income rises",
+        "Does not change with income",
+        "Is perfectly elastic",
+        "Rises when income falls"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A YED of 2 means demand is",
+      "options": [
+        "Income inelastic",
+        "Negative",
+        "Perfectly inelastic",
+        "Income elastic"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A YED of -1 means the product is",
+      "options": [
+        "A necessity",
+        "Luxury",
+        "Inferior",
+        "Normal"
+      ],
+      "correct": 2
+    },
+
+    {
+      "question": "Market share is calculated using",
+      "options": [
+        "(Total market sales ÷ Firm sales) × 100",
+        "(Sales of firm ÷ Total market sales) × 100",
+        "(Profit ÷ Revenue) × 100",
+        "(Revenue ÷ Costs) × 100"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Market share is used heavily in",
+      "options": [
+        "Employee training",
+        "Financial accounting",
+        "Marketing analysis",
+        "Production planning"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A firm with 40% market share is considered",
+      "options": [
+        "A strong competitor",
+        "Unprofitable",
+        "A weak competitor",
+        "A new entrant"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If a firm’s sales grow slower than the market, market share will",
+      "options": [
+        "Rise",
+        "Stay the same",
+        "Double",
+        "Fall"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Market share helps a business understand",
+      "options": [
+        "Its total costs",
+        "Its profit margin",
+        "Its position relative to competitors",
+        "Its fixed costs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A firm sells £200,000 in a £1,000,000 market. Market share is",
+      "options": [
+        "2%",
+        "5%",
+        "20%",
+        "50%"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Market share can increase if",
+      "options": [
+        "Competitors grow faster",
+        "The firm reduces output",
+        "The market shrinks",
+        "The firm grows faster than competitors"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A firm with low market share may struggle with",
+      "options": [
+        "Brand recognition",
+        "Economies of scale",
+        "Strong customer loyalty",
+        "High profits"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If total market sales rise but a firm’s sales stay the same, market share",
+      "options": [
+        "Falls",
+        "Stays the same",
+        "Rises",
+        "Doubles"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market share is important because it",
+      "options": [
+        "Shows total revenue",
+        "Indicates competitiveness",
+        "Shows total costs",
+        "Measures employee performance"
+      ],
+      "correct": 1
+    },
+
+    {
+      "question": "Market size refers to",
+      "options": [
+        "Total units sold or total revenue",
+        "Total employees",
+        "Total profit",
+        "Total costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market size shows",
+      "options": [
+        "The elasticity of demand",
+        "The number of competitors",
+        "The size of the market",
+        "The profit margin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Market size can be measured in",
+      "options": [
+        "Costs or profit",
+        "Units or revenue",
+        "Employees or wages",
+        "Prices or taxes"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A growing market size means",
+      "options": [
+        "More demand",
+        "Lower competition",
+        "Lower revenue",
+        "Less demand"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A shrinking market size means",
+      "options": [
+        "More competitors",
+        "Rising demand",
+        "Higher revenue",
+        "Falling demand"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Market size helps firms decide",
+      "options": [
+        "Office layout",
+        "Whether to enter a market",
+        "Employee wages",
+        "Staff uniforms"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If total units sold rise from 10,000 to 12,000, market size has",
+      "options": [
+        "Stayed the same",
+        "Disappeared",
+        "Increased",
+        "Decreased"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Market size is useful for",
+      "options": [
+        "Reducing fixed costs",
+        "Setting employee bonuses",
+        "Forecasting demand",
+        "Measuring elasticity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A large market size usually means",
+      "options": [
+        "Lower revenue",
+        "More potential customers",
+        "Lower demand",
+        "No competition"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Market size is often used in",
+      "options": [
+        "Employee training",
+        "Strategic planning",
+        "Tax calculations",
+        "Health and safety"
+      ],
+      "correct": 1
+    },
+
+    {
+      "question": "Sales growth is calculated using",
+      "options": [
+        "(New × Old) ÷ 100",
+        "((New − Old) ÷ Old) × 100",
+        "(New − Old) × 100",
+        "(Old ÷ New) × 100"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Sales growth tracks",
+      "options": [
+        "Performance over time",
+        "Employee productivity",
+        "Total costs",
+        "Market share"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If sales rise from 100 to 150 units, sales growth is",
+      "options": [
+        "150%",
+        "5%",
+        "15%",
+        "50%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "If sales fall from 200 to 150 units, sales growth is",
+      "options": [
+        "-50%",
+        "-25%",
+        "25%",
+        "50%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Positive sales growth means",
+      "options": [
+        "Sales stayed the same",
+        "Sales were zero",
+        "Sales increased",
+        "Sales decreased"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Negative sales growth means",
+      "options": [
+        "Sales increased",
+        "Sales doubled",
+        "Sales were unchanged",
+        "Sales decreased"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sales growth helps businesses",
+      "options": [
+        "Measure performance",
+        "Set employee wages",
+        "Calculate tax",
+        "Reduce fixed costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm with consistent sales growth is likely to",
+      "options": [
+        "Have falling demand",
+        "Have no customers",
+        "Be performing well",
+        "Be performing poorly"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If new sales are equal to old sales, sales growth is",
+      "options": [
+        "50%",
+        "100%",
+        "-100%",
+        "0%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sales growth is important because it",
+      "options": [
+        "Shows elasticity",
+        "Shows business momentum",
+        "Shows total costs",
+        "Shows market size"
+      ],
+      "correct": 1
+    }
+  ]
+}

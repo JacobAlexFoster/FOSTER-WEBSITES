@@ -1,44 +1,162 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Business Quizzes</title>
-    <link rel="stylesheet" href="Business.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Business Quizzes</title>
+<link rel="stylesheet" href="Business.css">
+
+<style>
+#wheel-container {
+    width: 600px;
+    height: 600px;
+    margin: 0 auto 40px auto;
+    position: relative;
+}
+
+.label {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-size: 13px;
+    font-weight: 600;
+    text-align: center;
+    width: 120px;
+}
+
+svg {
+    overflow: visible;
+}
+
+.grid-circle {
+    fill: none;
+    stroke: #d0d4d9;
+    stroke-width: 1;
+    opacity: 0.4;
+}
+
+.mastery-net {
+    fill: rgba(0, 123, 255, 0.25);
+    stroke: #007bff;
+    stroke-width: 2;
+}
+
+.point {
+    fill: #007bff;
+}
+</style>
 </head>
+
 <body>
 
 <div class="layout">
+<div class="main">
 
-    <div class="main">
+<header>
+<h1>Business</h1>
+<p>Select a quiz to begin</p>
+</header>
 
-        <header>
-            <h1>Business</h1>
-            <p>Select a quiz to begin</p>
-        </header>
+<div id="wheel-container">
+<svg id="wheel" width="600" height="600"></svg>
+</div>
 
-        <div class="quiz-list">
+<div class="quiz-list">
+<a href="BusinessQuiz1.html" class="quiz-card"><h2>Quiz 1: UNIT ONE</h2><p>10 questions</p></a>
+<a href="BusinessQuiz2.html" class="quiz-card"><h2>Quiz 2: UNIT TWO</h2><p>10 questions</p></a>
+<a href="BusinessQuiz3.html" class="quiz-card"><h2>Quiz 3: UNIT THREE</h2><p>10 questions</p></a>
+<a href="BusinessQuiz4.html" class="quiz-card"><h2>Quiz 4: UNIT FOUR</h2><p>10 questions</p></a>
+<a href="BusinessQuiz5.html" class="quiz-card"><h2>Quiz 5: UNIT FIVE</h2><p>10 questions</p></a>
+<a href="BusinessQuiz6.html" class="quiz-card"><h2>Quiz 6: UNIT SIX</h2><p>10 questions</p></a>
 
-            <a href="BusinessQuiz1.html" class="quiz-card">
-                <h2>Quiz 1: Marketing</h2>
-                <p>10 questions</p>
-            </a>
-
-            <a href="BusinessQuiz2.html" class="quiz-card">
-                <h2>Quiz 2: Finance</h2>
-                <p>10 questions</p>
-            </a>
-
-            <a href="BusinessQuiz3.html" class="quiz-card">
-                <h2>Quiz 3: Operations</h2>
-                <p>10 questions</p>
-            </a>
-
-        </div>
-
-    </div>
+<a href="BusinessFormulaQuiz1.html" class="quiz-card"><h2>UNIT ONE EQUATIONS</h2><p>50 questions</p></a>
+<a href="BusinessFormulaQuiz2.html" class="quiz-card"><h2>UNIT TWO EQUATIONS</h2><p>20 questions</p></a>
+<a href="BusinessFormulaQuiz3.html" class="quiz-card"><h2>UNIT THREE EQUATIONS</h2><p>50 questions</p></a>
+<a href="BusinessFormulaQuiz4.html" class="quiz-card"><h2>UNIT FOUR EQUATIONS</h2><p>40 questions</p></a>
+<a href="BusinessFormulaQuiz5.html" class="quiz-card"><h2>UNIT FIVE EQUATIONS</h2><p>20 questions</p></a>
+<a href="BusinessFormulaQuiz6.html" class="quiz-card"><h2>UNIT SIX EQUATIONS</h2><p>50 questions</p></a>
+</div>
 
 </div>
+</div>
+
+<script>
+const defaultMastery = {
+"Business Topic 1": 0,
+"Business Topic 2": 0,
+"Business Topic 3": 0,
+"Business Topic 4": 0,
+"Business Topic 5": 0,
+"Business Topic 6": 0,
+"Business Topic 1 Equations": 0,
+"Business Topic 2 Equations": 0,
+"Business Topic 3 Equations": 0,
+"Business Topic 4 Equations": 0,
+"Business Topic 5 Equations": 0,
+"Business Topic 6 Equations": 0
+};
+
+let mastery = JSON.parse(localStorage.getItem("businessMastery"));
+
+if (!mastery) {
+    mastery = defaultMastery;
+    localStorage.setItem("businessMastery", JSON.stringify(mastery));
+}
+
+const data = Object.keys(mastery).map(topic => ({
+    topic,
+    mastery: mastery[topic]
+}));
+
+const svg = document.getElementById("wheel");
+const container = document.getElementById("wheel-container");
+
+const size = 600;
+const center = size / 2;
+const maxRadius = 220;
+
+for (let i = 1; i <= 4; i++) {
+    const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    circle.setAttribute("cx", center);
+    circle.setAttribute("cy", center);
+    circle.setAttribute("r", (maxRadius / 4) * i);
+    circle.setAttribute("class", "grid-circle");
+    svg.appendChild(circle);
+}
+
+const points = [];
+
+data.forEach((item, i) => {
+    const angle = (2 * Math.PI * i) / data.length - Math.PI / 2;
+    const radius = (item.mastery / 100) * maxRadius;
+
+    const x = center + radius * Math.cos(angle);
+    const y = center + radius * Math.sin(angle);
+
+    points.push(`${x},${y}`);
+
+    const point = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+    point.setAttribute("cx", x);
+    point.setAttribute("cy", y);
+    point.setAttribute("r", 5);
+    point.setAttribute("class", "point");
+    svg.appendChild(point);
+
+    const labelX = center + (maxRadius + 40) * Math.cos(angle);
+    const labelY = center + (maxRadius + 40) * Math.sin(angle);
+
+    const label = document.createElement("div");
+    label.className = "label";
+    label.style.left = `${labelX}px`;
+    label.style.top = `${labelY}px`;
+    label.innerText = item.topic;
+    container.appendChild(label);
+});
+
+const polygon = document.createElementNS("http://www.w3.org/2000/svg", "polygon");
+polygon.setAttribute("points", points.join(" "));
+polygon.setAttribute("class", "mastery-net");
+svg.appendChild(polygon);
+</script>
 
 </body>
 </html>

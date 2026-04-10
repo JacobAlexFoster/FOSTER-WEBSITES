@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "question": "Expected value in a decision tree is calculated using",
+      "options": [
+        "Pay-off ÷ Probability",
+        "Probability × Pay-off",
+        "Revenue − Costs",
+        "Cost × Pay-off"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Expected value helps a business to",
+      "options": [
+        "Measure market share",
+        "Choose the best option",
+        "Set employee wages",
+        "Calculate total costs"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Net gain is calculated using",
+      "options": [
+        "Pay-off − Probability",
+        "Expected value − Cost of decision",
+        "Profit × Probability",
+        "Revenue − Costs"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Net gain shows",
+      "options": [
+        "Total revenue",
+        "The best financial choice",
+        "Employee productivity",
+        "Market growth"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If probability is 0.5 and pay-off is £10,000, expected value is",
+      "options": [
+        "£10,000",
+        "£20,000",
+        "£5,000",
+        "£2,000"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If expected value is £8,000 and cost is £3,000, net gain is",
+      "options": [
+        "£3,000",
+        "£11,000",
+        "£5,000",
+        "£8,000"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Decision trees are mainly used to",
+      "options": [
+        "Set prices",
+        "Support decision making",
+        "Measure market share",
+        "Calculate profit"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A higher expected value means an option is",
+      "options": [
+        "More attractive",
+        "Less attractive",
+        "Impossible to choose",
+        "More risky"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If probability is 1, expected value equals",
+      "options": [
+        "Zero",
+        "Net gain",
+        "The pay-off",
+        "The cost"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If probability is 0, expected value equals",
+      "options": [
+        "Net gain",
+        "The cost",
+        "0",
+        "The pay-off"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following increases expected value?",
+      "options": [
+        "Higher pay-off",
+        "Lower pay-off",
+        "Probability of 0",
+        "Higher cost"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following increases net gain?",
+      "options": [
+        "Lower probability",
+        "Higher cost",
+        "Higher expected value",
+        "Lower pay-off"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Decision trees include probabilities because they",
+      "options": [
+        "Show total costs",
+        "Show the likelihood of outcomes",
+        "Measure profit",
+        "Calculate revenue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A decision tree branch with the highest net gain is usually",
+      "options": [
+        "Always rejected",
+        "The best option",
+        "The worst option",
+        "Ignored"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If expected value is lower than the cost of the decision, net gain will be",
+      "options": [
+        "Equal to pay-off",
+        "Positive",
+        "Zero",
+        "Negative"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Expected value takes into account",
+      "options": [
+        "Only revenue",
+        "Only profit",
+        "Risk and reward",
+        "Only costs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Net gain helps a business understand",
+      "options": [
+        "How to reduce costs",
+        "How many units to produce",
+        "Whether a decision is financially worthwhile",
+        "How to increase market share"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If two options have the same expected value, the business should choose the one with",
+      "options": [
+        "More branches",
+        "Lower cost",
+        "Higher cost",
+        "Lower probability"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Expected value is best described as",
+      "options": [
+        "The minimum cost",
+        "The guaranteed outcome",
+        "The weighted average outcome",
+        "The maximum pay-off"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Decision trees are useful because they",
+      "options": [
+        "Guarantee success",
+        "Visually compare financial outcomes",
+        "Predict exact profits",
+        "Remove all risk"
+      ],
+      "correct": 1
+    }
+  ]
+}

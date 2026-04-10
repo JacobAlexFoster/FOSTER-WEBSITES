@@ -1,0 +1,508 @@
+{
+  "questions": [
+    {
+      "question": "Profit is defined as",
+      "options": [
+        "Revenue − Costs",
+        "Costs − Revenue",
+        "Price × Quantity",
+        "Revenue + Costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Profit is mainly used to measure",
+      "options": [
+        "Customer satisfaction",
+        "Market size",
+        "Financial performance",
+        "Staff productivity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A firm has revenue of £80,000 and costs of £50,000. What is its profit?",
+      "options": [
+        "£130,000",
+        "£30,000",
+        "£80,000",
+        "£50,000"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If costs rise but revenue stays the same, profit will",
+      "options": [
+        "Stay the same",
+        "Double",
+        "Decrease",
+        "Increase"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which of the following increases profit?",
+      "options": [
+        "Increasing revenue while costs stay constant",
+        "Increasing both revenue and costs equally",
+        "Increasing costs",
+        "Reducing revenue"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A business wants to improve profit. Which is a valid method?",
+      "options": [
+        "Increase costs",
+        "Reduce efficiency",
+        "Increase selling price",
+        "Reduce revenue"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A firm makes £12,000 profit one year and £18,000 the next. What has happened?",
+      "options": [
+        "Profit decreased",
+        "Profit became negative",
+        "Profit stayed the same",
+        "Profit increased"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "If revenue falls and costs rise, profit will",
+      "options": [
+        "Fall",
+        "Double",
+        "Rise",
+        "Stay the same"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which situation leads to higher profit?",
+      "options": [
+        "Lower costs and higher revenue",
+        "Higher costs and lower revenue",
+        "Higher costs and higher revenue",
+        "Lower costs and lower revenue"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Profit is important because it",
+      "options": [
+        "Shows customer satisfaction",
+        "Allows reinvestment and growth",
+        "Shows total market size",
+        "Measures staff motivation"
+      ],
+      "correct": 1
+    },
+
+    {
+      "question": "Revenue is calculated using",
+      "options": [
+        "Price × Quantity sold",
+        "Quantity ÷ Price",
+        "Profit × Costs",
+        "Price − Costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Revenue represents",
+      "options": [
+        "Money coming into the business",
+        "Profit margin",
+        "Money leaving the business",
+        "Total costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm sells 500 units at £20 each. What is revenue?",
+      "options": [
+        "£10,000",
+        "£500",
+        "£20,000",
+        "£25,000"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If a business sells more units at the same price, revenue will",
+      "options": [
+        "Rise",
+        "Stay the same",
+        "Fall",
+        "Become zero"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following could reduce revenue?",
+      "options": [
+        "Lower sales volume",
+        "Increasing price",
+        "Selling more units",
+        "Reducing costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm sells 200 units at £15 each. What is its revenue?",
+      "options": [
+        "£3,000",
+        "£15",
+        "£200",
+        "£30,000"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If price increases but quantity sold decreases, revenue will",
+      "options": [
+        "Always increase",
+        "Depend on which change is larger",
+        "Always decrease",
+        "Stay the same"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Which action increases revenue?",
+      "options": [
+        "Selling more units",
+        "Increasing costs",
+        "Reducing output",
+        "Reducing price and selling fewer units"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Revenue falls when",
+      "options": [
+        "Sales volume decreases",
+        "Market share increases",
+        "Costs increase",
+        "Profit increases"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A business sells 1,000 units at £5 each. What is revenue?",
+      "options": [
+        "£5,000",
+        "£500",
+        "£1,000",
+        "£50"
+      ],
+      "correct": 0
+    },
+
+    {
+      "question": "Total costs are calculated as",
+      "options": [
+        "Fixed costs + Variable costs",
+        "Price × Quantity",
+        "Fixed costs × Variable costs",
+        "Revenue − Profit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Costs represent",
+      "options": [
+        "Total expenditure",
+        "Market share",
+        "Profit margin",
+        "Money coming into the business"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which is a fixed cost?",
+      "options": [
+        "Rent",
+        "Raw materials",
+        "Packaging",
+        "Wages paid per hour"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which is a variable cost?",
+      "options": [
+        "Cost of raw materials",
+        "Insurance",
+        "Salaries",
+        "Factory rent"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm has fixed costs of £5,000 and variable costs of £3 per unit. If it produces 1,000 units, total costs are",
+      "options": [
+        "£8,000",
+        "£5,000",
+        "£3,000",
+        "£2,000"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If variable costs increase, total costs will",
+      "options": [
+        "Increase",
+        "Stay the same",
+        "Decrease",
+        "Become zero"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which cost changes with output?",
+      "options": [
+        "Variable cost",
+        "Fixed cost",
+        "Rent",
+        "Insurance"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which cost stays the same regardless of output?",
+      "options": [
+        "Fixed cost",
+        "Variable cost",
+        "Raw materials",
+        "Packaging"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If fixed costs fall, total costs will",
+      "options": [
+        "Fall",
+        "Rise",
+        "Stay the same",
+        "Double"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A business has fixed costs of £12,000 and variable costs of £4 per unit. At 2,000 units, total costs are",
+      "options": [
+        "£20,000",
+        "£12,000",
+        "£8,000",
+        "£4,000"
+      ],
+      "correct": 0
+    },
+
+    {
+      "question": "Market share is calculated using",
+      "options": [
+        "(Sales of firm ÷ Total market sales) × 100",
+        "(Revenue ÷ Costs) × 100",
+        "(Profit ÷ Revenue) × 100",
+        "(Total market sales ÷ Firm sales) × 100"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market share shows",
+      "options": [
+        "Competitiveness",
+        "Profitability",
+        "Total costs",
+        "Market growth"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm sells £200,000 in a £1,000,000 market. What is its market share?",
+      "options": [
+        "20%",
+        "5%",
+        "2%",
+        "50%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If a firm’s market share increases, it means",
+      "options": [
+        "It is becoming more competitive",
+        "Its costs are rising",
+        "The market is shrinking",
+        "Its revenue must be falling"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm has 10% market share. If total market sales are £500,000, what are its sales?",
+      "options": [
+        "£50,000",
+        "£5,000",
+        "£500,000",
+        "£10,000"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market share can fall if",
+      "options": [
+        "Competitors grow faster",
+        "The firm increases sales",
+        "The market shrinks",
+        "The firm reduces costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm with 25% market share is best described as",
+      "options": [
+        "A strong competitor",
+        "A weak competitor",
+        "Unprofitable",
+        "The only firm in the market"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If total market sales rise but a firm’s sales stay the same, market share will",
+      "options": [
+        "Fall",
+        "Rise",
+        "Stay the same",
+        "Double"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market share helps a business understand",
+      "options": [
+        "Its position relative to competitors",
+        "Its total costs",
+        "Its profit margin",
+        "Its fixed costs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A firm sells £300,000 in a £600,000 market. What is its market share?",
+      "options": [
+        "50%",
+        "30%",
+        "60%",
+        "10%"
+      ],
+      "correct": 0
+    },
+
+    {
+      "question": "Market growth is calculated using",
+      "options": [
+        "(New market size − Old market size) ÷ Old market size",
+        "(New size ÷ Old size) × 100",
+        "(Old size − New size) ÷ Old size",
+        "(Old size ÷ New size) × 100"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market growth shows",
+      "options": [
+        "How fast the market is expanding",
+        "Total costs",
+        "Total market share",
+        "How profitable a firm is"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A market grows from 1,000 units to 1,500 units. What is the growth rate?",
+      "options": [
+        "50%",
+        "25%",
+        "100%",
+        "5%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "If market growth is negative, it means",
+      "options": [
+        "The market is shrinking",
+        "The market is expanding",
+        "Firms are more competitive",
+        "Costs are rising"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A market increases from £2m to £2.4m. What is market growth?",
+      "options": [
+        "20%",
+        "10%",
+        "40%",
+        "4%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market growth benefits firms because",
+      "options": [
+        "There are more potential customers",
+        "Profit is guaranteed",
+        "Competitors disappear",
+        "Costs automatically fall"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A market grows from 5,000 units to 6,000 units. What is the growth rate?",
+      "options": [
+        "10%",
+        "20%",
+        "5%",
+        "50%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "High market growth usually means",
+      "options": [
+        "More opportunities for firms",
+        "Lower demand",
+        "Fewer customers",
+        "Lower sales"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "A market shrinks from £10m to £9m. What is the growth rate?",
+      "options": [
+        "-10%",
+        "10%",
+        "-1%",
+        "1%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Market growth helps firms plan",
+      "options": [
+        "Future demand",
+        "Employee holidays",
+        "Office layout",
+        "Staff uniforms"
+      ],
+      "correct": 0
+    }
+  ]
+}

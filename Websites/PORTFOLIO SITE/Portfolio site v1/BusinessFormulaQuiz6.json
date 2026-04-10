@@ -1,0 +1,504 @@
+{
+  "questions": [
+    {
+      "question": "Labour turnover is calculated using",
+      "options": [
+        "(Number staying \u00f7 Average number employed) \u00d7 100",
+        "Output \u00f7 Number of employees",
+        "(Number leaving \u00f7 Average number employed) \u00d7 100",
+        "(Employee costs \u00f7 Revenue) \u00d7 100"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour turnover measures",
+      "options": [
+        "The rate at which employees stay",
+        "The rate at which employees leave",
+        "Labour cost per unit",
+        "Employee productivity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "High labour turnover usually indicates",
+      "options": [
+        "Low recruitment costs",
+        "High productivity",
+        "Problems with retention",
+        "Strong employee loyalty"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Low labour turnover suggests",
+      "options": [
+        "High recruitment costs",
+        "Stable workforce",
+        "High dissatisfaction",
+        "Poor retention"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If 20 employees leave and the average employed is 200, labour turnover is",
+      "options": [
+        "40%",
+        "20%",
+        "5%",
+        "10%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour turnover can increase due to",
+      "options": [
+        "High job satisfaction",
+        "Strong retention policies",
+        "Poor working conditions",
+        "Good management"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "High labour turnover can lead to",
+      "options": [
+        "Higher retention",
+        "Lower training needs",
+        "Lower recruitment costs",
+        "Higher recruitment costs"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A business wants to reduce labour turnover. It should",
+      "options": [
+        "Lower pay",
+        "Reduce training",
+        "Improve working conditions",
+        "Increase workload"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour turnover is important because it affects",
+      "options": [
+        "Production capacity",
+        "Stability and recruitment costs",
+        "Market share",
+        "Sales revenue"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A sudden rise in labour turnover may indicate",
+      "options": [
+        "High motivation",
+        "Low recruitment costs",
+        "Strong retention",
+        "Employee dissatisfaction"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour retention is calculated using",
+      "options": [
+        "(Employee costs \u00f7 Revenue) \u00d7 100",
+        "(Number leaving \u00f7 Average number employed) \u00d7 100",
+        "(Number staying \u00f7 Average number employed) \u00d7 100",
+        "Output \u00f7 Number of employees"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour retention measures",
+      "options": [
+        "How many employees leave",
+        "Employee productivity",
+        "Labour cost per unit",
+        "How many employees stay"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "High labour retention suggests",
+      "options": [
+        "High turnover",
+        "Strong employee loyalty",
+        "Poor working conditions",
+        "High dissatisfaction"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Low labour retention usually indicates",
+      "options": [
+        "Strong loyalty",
+        "High productivity",
+        "Low turnover",
+        "Problems with motivation"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "If 180 employees stay out of an average of 200, retention is",
+      "options": [
+        "60%",
+        "90%",
+        "80%",
+        "70%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Retention improves when",
+      "options": [
+        "Workload increases",
+        "Training is removed",
+        "Pay decreases",
+        "Working conditions improve"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "High retention benefits a business because it",
+      "options": [
+        "Increases absenteeism",
+        "Reduces productivity",
+        "Reduces recruitment costs",
+        "Increases turnover"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Retention is important because it affects",
+      "options": [
+        "Sales revenue",
+        "Market share",
+        "Production capacity",
+        "Workforce stability"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A business with low retention may need to",
+      "options": [
+        "Reduce training",
+        "Improve employee engagement",
+        "Reduce pay",
+        "Increase turnover"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Retention is closely linked to",
+      "options": [
+        "Unit costs",
+        "Market size",
+        "Employee satisfaction",
+        "Sales growth"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour productivity is calculated using",
+      "options": [
+        "Employees \u00f7 Output",
+        "Output \u00d7 Number of employees",
+        "Output \u00f7 Cost",
+        "Output \u00f7 Number of employees"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour productivity measures",
+      "options": [
+        "Retention",
+        "Efficiency",
+        "Turnover",
+        "Liquidity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If output is 1,000 units and there are 10 employees, labour productivity is",
+      "options": [
+        "50 units per employee",
+        "1,000 units per employee",
+        "10 units per employee",
+        "100 units per employee"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour productivity increases when",
+      "options": [
+        "Costs rise",
+        "Employees increase faster than output",
+        "Output rises faster than employees",
+        "Output falls"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Low labour productivity suggests",
+      "options": [
+        "Low turnover",
+        "Inefficiency",
+        "High retention",
+        "High efficiency"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Labour productivity can be improved by",
+      "options": [
+        "Hiring more staff without increasing output",
+        "Reducing skills",
+        "Training employees",
+        "Increasing absenteeism"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "High labour productivity usually leads to",
+      "options": [
+        "Lower output",
+        "Lower unit costs",
+        "Higher unit costs",
+        "Higher turnover"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If employees increase but output stays the same, labour productivity will",
+      "options": [
+        "Stay the same",
+        "Double",
+        "Rise",
+        "Fall"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour productivity is important because it affects",
+      "options": [
+        "Sales revenue",
+        "Market share",
+        "Efficiency and competitiveness",
+        "Liquidity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "A business with high labour productivity is likely to",
+      "options": [
+        "Have high costs",
+        "Use resources efficiently",
+        "Have low output",
+        "Be uncompetitive"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Employee costs as % of revenue is calculated using",
+      "options": [
+        "(Revenue \u00f7 Employee costs) \u00d7 100",
+        "Employee costs \u00d7 Revenue",
+        "(Employee costs \u00f7 Revenue) \u00d7 100",
+        "Revenue \u2212 Employee costs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Employee costs as % of revenue measures",
+      "options": [
+        "Labour turnover",
+        "How much revenue is spent on employees",
+        "Retention levels",
+        "Employee productivity"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If employee costs are \u00a3200,000 and revenue is \u00a31,000,000, employee cost % is",
+      "options": [
+        "5%",
+        "10%",
+        "50%",
+        "20%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "A high employee cost percentage suggests",
+      "options": [
+        "Low labour expenses",
+        "High productivity",
+        "High labour expenses",
+        "Low turnover"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Employee cost % falls when",
+      "options": [
+        "Employee costs rise faster than revenue",
+        "Retention falls",
+        "Revenue falls",
+        "Revenue rises faster than employee costs"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Employee cost % is important because it affects",
+      "options": [
+        "Sales growth",
+        "Profitability",
+        "Liquidity",
+        "Market share"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "A business can reduce employee cost % by",
+      "options": [
+        "Reducing productivity",
+        "Increasing wages",
+        "Increasing revenue",
+        "Increasing staff numbers"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Employee cost % is useful for",
+      "options": [
+        "Measuring liquidity",
+        "Measuring sales growth",
+        "Measuring market size",
+        "Comparing labour efficiency"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "If revenue falls but employee costs stay the same, employee cost % will",
+      "options": [
+        "Stay the same",
+        "Rise",
+        "Fall",
+        "Become zero"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Employee cost % helps businesses understand",
+      "options": [
+        "How productive employees are",
+        "How many employees they have",
+        "How labour costs affect revenue",
+        "How many units they produce"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour cost per unit is calculated using",
+      "options": [
+        "Revenue \u00f7 Labour cost",
+        "Labour cost \u00d7 Units produced",
+        "Units produced \u00f7 Total labour cost",
+        "Total labour cost \u00f7 Units produced"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour cost per unit measures",
+      "options": [
+        "Productivity",
+        "Employee retention",
+        "Labour cost efficiency",
+        "Labour turnover"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "If labour cost is \u00a350,000 and 10,000 units are produced, labour cost per unit is",
+      "options": [
+        "\u00a30.50",
+        "\u00a35",
+        "\u00a310",
+        "\u00a350"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Labour cost per unit falls when",
+      "options": [
+        "Labour cost increases faster than output",
+        "Retention falls",
+        "Output falls",
+        "Output increases faster than labour cost"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "High labour cost per unit suggests",
+      "options": [
+        "Low labour cost",
+        "High retention",
+        "Inefficiency",
+        "High productivity"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Labour cost per unit can be reduced by",
+      "options": [
+        "Increasing wages",
+        "Hiring more staff without increasing output",
+        "Reducing output",
+        "Improving productivity"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Labour cost per unit is important because it affects",
+      "options": [
+        "Sales growth",
+        "Pricing decisions",
+        "Liquidity",
+        "Market share"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "If labour cost rises but output stays the same, labour cost per unit will",
+      "options": [
+        "Stay the same",
+        "Fall",
+        "Become zero",
+        "Rise"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "If output doubles and labour cost stays the same, labour cost per unit will",
+      "options": [
+        "Rise",
+        "Fall",
+        "Stay the same",
+        "Double"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Labour cost per unit helps businesses understand",
+      "options": [
+        "How much revenue they earn",
+        "How many units they sell",
+        "How many employees they have",
+        "How labour costs affect unit profitability"
+      ],
+      "correct": 3
+    }
+  ]
+}
